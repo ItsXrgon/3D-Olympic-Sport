@@ -56,5 +56,5 @@ Your include and lib folders should look like this:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourrepo/2D-Infinite-Runner.git
-   cd 2D-Infinite-Runner
+   git clone https://github.com/yourrepo/3D-Olympic-Sport.git
+   cd 3D-Olympic-Sport
